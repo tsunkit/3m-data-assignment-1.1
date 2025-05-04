@@ -40,3 +40,8 @@ What hidden opportunities exist for specific genres/platforms in underperforming
 ## Deliverables:
 - SQL Queries: Provide all the SQL queries you used to answer the business questions.
 - Summary of Findings: For each question, summarise your key insights and recommendations based on your analysis.
+
+## Submission
+
+- Submit the GitHub URL of your assignment to NTU black board.
+- Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL.
