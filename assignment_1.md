@@ -77,3 +77,8 @@ Answer:
 ```sql
 
 ```
+
+## Submission
+
+- Submit the GitHub URL of your assignment to NTU black board.
+- Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL.
