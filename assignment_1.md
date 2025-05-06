@@ -21,7 +21,7 @@ Answer:
 ```
 ### Question 2
 
-Write the SQL statement to create a unique index on the `email` column of the `students` table in the `lesson` schema.
+Using the data provided in lession 1.3 ( https://github.com/su-ntu-ctp/5m-data-1.3-sql-basic-ddl/tree/solutions/data ), write the SQL statement to create a unique index on the `email` column of the `students` table in the `lesson` schema.
 
 Answer:
 
@@ -31,7 +31,7 @@ Answer:
 
 ### Question 3
 
-Write the SQL statement to update the `email` of the teacher with the name 'John Doe' to 'john.doe@school.com' in the teachers table of the `lesson` schema.
+Using the data provided in lession 1.3 ( https://github.com/su-ntu-ctp/5m-data-1.3-sql-basic-ddl/tree/solutions/data ), write the SQL statement to update the `email` of the teacher with the name 'John Doe' to 'john.doe@school.com' in the teachers table of the `lesson` schema.
 
 Answer:
 
@@ -40,7 +40,7 @@ Answer:
 ```
 ### Question 4
 
-Categorize flats into price ranges and count how many flats fall into each category:
+Using the data provided in lesson 1.4 ( https://github.com/su-ntu-ctp/5m-data-1.4-sql-basic-dml/tree/main/db ), categorize flats into price ranges and count how many flats fall into each category:
 
 - Under $400,000: 'Budget'
 - $400,000 to $700,000: 'Mid-Range'
@@ -53,14 +53,14 @@ Categorize flats into price ranges and count how many flats fall into each categ
 
 ### Question 5
 
-Select the minimum and maximum price of flats sold in each town during the first quarter of 2017 (January to March).
+Using the data provided in lesson 1.4 ( https://github.com/su-ntu-ctp/5m-data-1.4-sql-basic-dml/tree/main/db ),select the minimum and maximum price of flats sold in each town during the first quarter of 2017 (January to March).
 
 ```sql
 
 ```
 ### Question 6
 
-Using the `claim` and `car` tables, write a SQL query to compute the running total of the `travel_time` column for each `car_id` in the `claim` table. The resulting table should contain `id, car_id, travel_time, running_total`.
+Using the data provided in lesson 1.5 ( https://github.com/su-ntu-ctp/5m-data-1.5-sql-advanced/tree/main/db ), using the `claim` and `car` tables, write a SQL query to compute the running total of the `travel_time` column for each `car_id` in the `claim` table. The resulting table should contain `id, car_id, travel_time, running_total`.
 
 Answer:
 
@@ -70,7 +70,7 @@ Answer:
 
 ### Question 7
 
-Using a Common Table Expression (CTE), write a SQL query to return a table containing `id, resale_value, car_use` from `car`, where the car resale value is less than the average resale value for the car use.
+Using the data provided in lesson 1.5 ( https://github.com/su-ntu-ctp/5m-data-1.5-sql-advanced/tree/main/db ), using a Common Table Expression (CTE), write a SQL query to return a table containing `id, resale_value, car_use` from `car`, where the car resale value is less than the average resale value for the car use.
 
 Answer:
 
@@ -80,5 +80,5 @@ Answer:
 
 ## Submission
 
-- Submit the GitHub URL of your assignment to NTU black board.
+- Submit the GitHub URL of your assignment solution to NTU black board.
 - Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL.
