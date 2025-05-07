@@ -4,6 +4,17 @@
 
 You will be working with the following dataset: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
 
+📦 Dataset Download Instructions
+Download the dataset ZIP file from this link.
+After downloading:
+
+Unzip the file to access vgsales.csv.
+
+Note the full file path to vgsales.csv — you'll need it in the next step.
+
+🔍 Challenge: Load the Data into DuckDB
+Using DBeaver and your DuckDB connection, how would you load the vgsales.csv file into a table so you can begin querying it?
+
 ## Business Question
 How can game developers and publishers optimize their strategy to maximize global sales by understanding the performance of different game genres, platforms, and publishers?
 
