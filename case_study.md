@@ -4,15 +4,11 @@
 
 You will be working with the following dataset: [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download)
 
-📦 Dataset Download Instructions
-Download the dataset ZIP file from this link.
-After downloading:
+📦 **Dataset Download Instructions**
+1. Download the dataset ZIP file from the above link.
+2. After downloading: Unzip the file to access vgsales.csv. Note the full file path to vgsales.csv — you'll need it in the next step.
 
-Unzip the file to access vgsales.csv.
-
-Note the full file path to vgsales.csv — you'll need it in the next step.
-
-🔍 Challenge: Load the Data into DuckDB
+🔍 **Challenge: Load the Data into DuckDB**
 Using DBeaver and your DuckDB connection, how would you load the vgsales.csv file into a table so you can begin querying it?
 
 ## Business Question
