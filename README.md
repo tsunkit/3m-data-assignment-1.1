@@ -47,8 +47,8 @@ Step 7: Visit your remote repository at github.com to see the changes. The remot
 
 Step 8: Perform a pull request to the upstream repository 
 
-From: `https://github.com/your_username/3m-data-assignment-1.1`
+From: `https://github.com/your_username/se-cohort-git-practice`
 
-To: `https://github.com/su-ntu-ctp/3m-data-assignment-1.1` 
+To: `https://github.com/su-ntu-ctp/se-cohort-git-practice` 
 
 ---
