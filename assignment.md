@@ -23,8 +23,6 @@ Answer:
 
 Using the data provided in lession 1.3 ( https://github.com/su-ntu-ctp/5m-data-1.3-sql-basic-ddl/tree/solutions/data ), write the SQL statement to alter the teachers table in the lesson schema to add a new column subject of type VARCHAR.
 
-.
-
 Answer:
 
 ```sql
