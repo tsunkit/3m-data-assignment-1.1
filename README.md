@@ -1,10 +1,3 @@
-## Brief
-
-## Self studies check-in
-
-There is no self studies related to GIT. Learners should be informed that GIT is not easy to master and it will take years to become good. Learning on-demand is pretty much every Developers' experience in learning GIT.
-
----
 
 ## Conceptual Knowledge about GIT (15 mins)
 
