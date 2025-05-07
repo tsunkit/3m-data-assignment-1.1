@@ -18,24 +18,6 @@ Check-in with learners for a short Q&A about the video.
 
 ---
 
-## Part 1 - Fork, Clone. (30 mins)
-
-### Fork and clone repository
-
-> If you have problems with credentials when cloning, committing, or pushing to Github.com, you can install Github CLI via [link](https://cli.github.com)
-> OR you can just follow the onscreen instructions to add your email and name. 
-
-Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort-git-practice) on the browser.
-
-Step 2: Fork it as your own repository.
-
-Step 3: Launch VS Code and open the folder where you would clone all repositories (this folder is created in the previous lesson).
-
-Step 4: Start a Terminal within VS Code.
-
-Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort-git-practice` and hit Enter.
-
-Step 6: A new folder should appear the directory.
 
 ### The difference between FORK and CLONE
 
@@ -49,7 +31,7 @@ When you clone, you are copying a remote repository to your local machine (lapto
 
 ## Part 2 - Push Changes, Create Pull Request. (20 mins)
 
-Follow these steps to try making changes and push them to the remote repository. (6m-software-1.2-cli-git)
+Follow these steps to try making changes and push them to the remote repository. 
 
 Step 1: Create a new file `test.txt` in the cloned repository (folder). 
 
@@ -67,8 +49,8 @@ Step 7: Visit your remote repository at github.com to see the changes. The remot
 
 Step 8: Perform a pull request to the upstream repository 
 
-From: `https://github.com/your_username/6m-software-1.2-cli-git`
+From: `https://github.com/your_username/3m-data-assignment-1.1`
 
-To: `https://github.com/su-ntu-ctp/6m-software-1.2-cli-git` 
+To: `https://github.com/su-ntu-ctp/3m-data-assignment-1.1` 
 
 ---
