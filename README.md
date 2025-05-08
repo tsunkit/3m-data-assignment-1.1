@@ -20,7 +20,7 @@ When you clone, you are copying a remote repository to your local machine (lapto
 
 ---
 
-## Part 2 - Push Changes, Create Pull Request. (20 mins)
+## Part 2 - Push Changes. (20 mins)
 
 Follow these steps to try making changes and push them to the remote repository. 
 
@@ -38,10 +38,5 @@ Step 6: Push the committed change to remote repository `git push origin main`.
 
 Step 7: Visit your remote repository at github.com to see the changes. The remote repository URL is `https://github.com/<your username>/se-cohort-git-practice`.
 
-Step 8: Perform a pull request to the upstream repository 
-
-From: `https://github.com/your_username/se-cohort-git-practice`
-
-To: `https://github.com/su-ntu-ctp/se-cohort-git-practice` 
 
 ---
