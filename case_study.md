@@ -42,7 +42,7 @@ Which platforms generate the highest global sales?
 SQL:
 ```sql
 --in shorter form
-select platform, round(sum(global_sales), 2) as total_global_sales from vgsales group by 1 order by 2 desc limit 1; --group by 1st column limited by 1 row
+select platform, round(sum(global_sales), 2) as total_global_sales from vgsales group by 1 order by total_global_sales desc limit 1; --group by 1st column limited by 1 row
 ```
 Findings:
 ```findings
@@ -86,7 +86,7 @@ from sales
 ```
 Findings:
 ```findings
-<img width="1457" height="59" alt="image" src="https://github.com/user-attachments/assets/13597b27-a2b6-420d-b07e-a1b11628457c" />
+https://github.com/user-attachments/assets/13597b27-a2b6-420d-b07e-a1b11628457c
 
 ```
 What are the trends over time in game sales by genre and platform?
@@ -105,7 +105,7 @@ order by genre, platform, formatted_year
 ```
 Findings:
 ```findings
-<img width="1298" height="522" alt="image" src="https://github.com/user-attachments/assets/76a206b7-9864-4710-ae98-226c6264ac5b" />
+https://github.com/user-attachments/assets/76a206b7-9864-4710-ae98-226c6264ac5b
 
 ```
 Which platforms are most successful for specific genres?
@@ -125,7 +125,7 @@ select genre, platform, total_sales from
 ```
 Findings:
 ```findings
-<img width="1443" height="569" alt="image" src="https://github.com/user-attachments/assets/cdec2511-bf82-4ba6-b17f-9917564e8dc0" />
+https://github.com/user-attachments/assets/cdec2511-bf82-4ba6-b17f-9917564e8dc0
 
 ```
 ## Deliverables:
